@@ -1,0 +1,4 @@
+The Python files should lie in the same folder as the data zip-archive. 
+
+Python can't read from a zip-archive, so unpack/extract first.
+
